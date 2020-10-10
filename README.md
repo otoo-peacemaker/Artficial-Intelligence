@@ -1,6 +1,6 @@
 # Artficial-Intelligence
 This repo contains most of basic knowledge in Data Science || OpenCV | Machine Learning | Data Mining | Natural Language Processing ||
-and other fields as well as AI is concern.
+and other fields as far as AI is concern.
 
 # Introduction
 ## What Is Artificial Intelligence (AI) ?
